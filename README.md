@@ -10,6 +10,6 @@ Asignatura: Programación declarativa
 - [Práctica 4]()
 - [Práctica 4 (bis)]()
 - [Práctica 5]()
-- 
+
 ### Práctica final
 - [Práctica final]()
