@@ -13,3 +13,8 @@ Asignatura: Programación declarativa
 
 ### Práctica final
 - [Práctica final](https://github.com/martinfdezdg/PD/tree/main/Laboratorio/PF)
+
+## Prolog
+
+### Prácticas de laboratorio
+- [Práctica 6](https://github.com/martinfdezdg/PD/tree/main/Laboratorio/PR6)
